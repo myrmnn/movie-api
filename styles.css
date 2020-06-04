@@ -3,6 +3,10 @@
     text-align: center;
     margin: auto;
   }
+
+  .notification {
+    background-color: turquoise;
+  }
   
   figure.image {
     display: flex;
